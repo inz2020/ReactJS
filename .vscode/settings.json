@@ -1,0 +1,5 @@
+{
+    "prettier.useEditorConfig": false,
+    "prettier.arrowParens": "avoid",
+    "prettier.bracketSpacing": false
+}
